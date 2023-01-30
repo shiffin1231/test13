@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633881386348",
+    "project_id": "xc-reports",
+    "storage_bucket": "xc-reports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633881386348:android:279ea695daca9c1ed0a749",
+        "android_client_info": {
+          "package_name": "com.example.xc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633881386348-fer9q97a4i2nat25an49uesuf705il3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-IIQoys-skmUeQQGlA0d-ZIUx_IBBKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633881386348-fer9q97a4i2nat25an49uesuf705il3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
